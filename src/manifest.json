@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "chrome-ext-sakura-checker",
+  "version": "1.0",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["contextMenus", "tabs"],
+  "icons": {
+    "16": "cherry-blossom-16-213934.png",
+    "48": "cherry-blossom-48-213934.png"
+  }
+}

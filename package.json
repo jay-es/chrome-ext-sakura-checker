@@ -1,7 +1,6 @@
 {
   "name": "chrome-ext-sakura-checker",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +16,15 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.1.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-es/chrome-ext-sakura-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jay-es/chrome-ext-sakura-checker/issues"
+  },
+  "homepage": "https://github.com/jay-es/chrome-ext-sakura-checker#readme",
+  "description": ""
 }
