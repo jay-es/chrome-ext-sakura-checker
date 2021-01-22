@@ -2,6 +2,8 @@
 /* global chrome */
 
 const urlPatterns = [
+  'https://www.amazon.co.jp/dp/*',
+  'https://www.amazon.co.jp/product/*',
   'https://www.amazon.co.jp/*/dp/*',
   'https://www.amazon.co.jp/*/product/*',
   'https://www.amazon.co.jp/*%2Fdp%2F*',
